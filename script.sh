@@ -5,6 +5,3 @@ tar -cf /tmp/$host'_'$date.tar /tmp/$host'_'$date'_'running.out
 mkdir /tmp/archives
 mv /tmp/$host'_'$date.tar /tmp/archives
 tar -tf /tmp/archives/$host'_'$date.tar
-
-
-666
