@@ -6,4 +6,4 @@ mkdir /tmp/archives
 mv /tmp/$host'_'$date.tar /tmp/archives
 tar -tf /tmp/archives/$host'_'$date.tar
 
-test 123
+test 123 qwerty
